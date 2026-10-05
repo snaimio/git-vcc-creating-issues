@@ -1,15 +1,22 @@
 <div align="center">
 
-# 🌳 Git Version Control & Collaboration Workflows
-### Trunk-Based Development, Branching Strategies & Merge Conflict Resolution
+# 📋 GitHub Issue Tracking & Agile Backlog Standards
+### Agile User Story Breakdown, Issue Templates, Label Taxonomies & Milestone Tracking
 
-[![Git](https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Workflows-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Issues](https://img.shields.io/badge/Agile-Issue%20Tracking-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Project Management](https://img.shields.io/badge/Methodology-Scrum%20%2F%20Kanban-blue?style=for-the-badge)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-CEFF00?style=for-the-badge&logoColor=black)](LICENSE)
 
 <br/>
 
-**A technical reference repository demonstrating production-grade Git workflows, feature branching, pull request code reviews, rebase workflows, and 3-way merge conflict resolution.**
+Demonstrates modern agile project management using **GitHub Issues and Projects**. Features standardized bug report and feature request templates, semantic label hierarchies (Priority, Type, Component), and milestone tracking.
+
+<br/>
+
+[Overview](#-technical-overview) •
+[Features](#-key-features) •
+[Setup & Run](#-how-to-build-and-run) •
+[License](#-license)
 
 </div>
 
@@ -18,23 +25,31 @@
 ---
 
 ## 📌 Technical Overview
-This repository captures industry-standard version control methodologies used in collaborative agile engineering teams.
 
-### 💼 Key Workflows Demonstrated
-- **Feature Branching & Trunk-Based Development**: Clean commit history with atomic, semantic commit messages.
-- **3-Way Merge Conflict Resolution**: Identifying conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`), manual reconciliation, and clean fast-forward merges.
-- **GitHub Pull Request Workflows**: Issue tracking, branch protection, code review guidelines, and squashing commits.
+Demonstrates modern agile project management using **GitHub Issues and Projects**. Features standardized bug report and feature request templates, semantic label hierarchies (Priority, Type, Component), and milestone tracking.
+
+---
+
+## ✨ Key Features
+
+- **Issue Templates (`.github/ISSUE_TEMPLATE`)**: Pre-structured forms for feature requests, bug reports, and task spikes.
+- **Label Taxonomy**: Color-coded categorization system for severity, component area, and triage status.
+- **Milestone & Sprint Organization**: Grouping issues into release milestones and sprint goals.
+
+---
+
+## 🚀 How to Build and Run
+
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/snaimio/git-vcc-creating-issues.git
+   cd git-vcc-creating-issues
+   ```
+2. Open the project in your IDE (Xcode / Android Studio / Browser) and run.
 
 ---
 
 ## 📄 License
+
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-**Sheikh Naim**  
-*Mobile & Full-Stack Web Developer*  
-- **LinkedIn**: [linkedin.com/in/snaimio](https://www.linkedin.com/in/snaimio)  
-- **GitHub**: [@snaimio](https://github.com/snaimio)  
-- **Portfolio**: [snaimio.github.io](https://snaimio.github.io)
